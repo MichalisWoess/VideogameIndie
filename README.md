@@ -1,2 +1,0 @@
-# VideoGameIndie
-All things Videogames!
